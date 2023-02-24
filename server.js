@@ -45,6 +45,7 @@ myDB(async (client) => {
       title: "Connected to Database",
       message: "Please log in",
       showLogin: true,
+      showRegistration: true,
     });
   });
 
